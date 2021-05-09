@@ -1,0 +1,24 @@
+{
+  "name": "coinmarketcap",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marcuslau0903/CoinMarketCap.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marcuslau0903/CoinMarketCap/issues"
+  },
+  "homepage": "https://github.com/marcuslau0903/CoinMarketCap#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "http": "0.0.1-security",
+    "node-fetch": "^2.6.1"
+  }
+}
